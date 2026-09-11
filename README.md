@@ -50,7 +50,7 @@ Ce dépôt s'appuie sur une démarche d'**Ingénierie de Données Synthétiques*
 ### 1. Clonage du dépôt et installation des dépendances
 
 ```bash
-git clone [https://github.com/Ygnastixx/walmart-connect-adtech-generator.git](https://github.com/Ygnastixx/walmart-connect-adtech-generator.git)
+git clone [https://github.com/Ygnastixx/Walmart-Connect-Adtech-Generator.git](https://github.com/Ygnastixx/Walmart-Connect-Adtech-Generator.git)
 cd walmart-connect-adtech-generator
 pip install -r requirements.txt
 
@@ -89,7 +89,7 @@ df = generator.generate_dataset()
 
 ## 📑 Dictionnaire des Données
 
-La documentation complète de chaque variable et de sa règle de calcul est disponible dans le fichier [docs/DATASET_DOCUMENTATION.md]().
+La documentation complète de chaque variable et de sa règle de calcul est disponible dans le fichier [docs/DATASET_DOCUMENTATION.md](https://github.com/Ygnastixx/Walmart-Connect-Adtech-Generator/blob/main/docs/DATASET_DOCUMENTATION.md).
 
 | Champ | Type | Description |
 | --- | --- | --- |
