@@ -1,0 +1,17 @@
+# IDE
+.vscode/
+
+# Environments
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Data outputs non essentiels (Optionnel selon vos besoins)
+data/output/*.csv
+
+
+.DS_Store
